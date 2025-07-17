@@ -1,4 +1,10 @@
 
+text print
+operators
+bio data 
+bio data updating
+
+
 
 // function texts () {
 //     console.log("My function is working");
